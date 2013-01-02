@@ -1,0 +1,11 @@
+{"ts":1357144102110,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1357144113032,"patch":[[{"diffs":[[1,"<?php\r\n/*\r\n    Plugin Name: WP-Eti\r\n    Plugin URI: http://github.com/glamrock/wp-imageless\r\n    Description: Kills images in the content area and comments\r\n    Version: 0.1\r\n    Author: Griffin Boyce\r\n    Author URI: http://cryptic.be\r\n    License: A \"Slug\" license name e.g. GPL2\r\n*/\r\n?>"]],"start1":0,"start2":0,"length1":0,"length2":289}]],"length":289,"saved":false}
+{"ts":1357144113883,"patch":[[{"diffs":[[0,": WP-Eti"],[1,"q"],[0,"\r\n    Pl"]],"start1":26,"start2":26,"length1":16,"length2":17}]],"length":290,"saved":false}
+{"ts":1357144115909,"patch":[[{"diffs":[[0," WP-Etiq"],[1,"uette"],[0,"\r\n    Pl"]],"start1":27,"start2":27,"length1":16,"length2":21}]],"length":295,"saved":false}
+{"ts":1357144121448,"patch":[[{"diffs":[[0,"mageless"],[-1,"\r\n    "],[0,"Descript"]],"start1":89,"start2":89,"length1":22,"length2":16}]],"length":289,"saved":false}
+{"ts":1357144126442,"patch":[[{"diffs":[[0,"mageless"],[1,"\r\n    "],[0,"Descript"]],"start1":89,"start2":89,"length1":16,"length2":22}]],"length":295,"saved":false}
+{"ts":1357144129110,"patch":[[{"diffs":[[0,"/wp-"],[-1,"imageless"],[1,"e"],[0,"\r\n  "]],"start1":84,"start2":84,"length1":17,"length2":9}]],"length":287,"saved":false}
+{"ts":1357144133137,"patch":[[{"diffs":[[0,"ock/wp-e"],[1,"tiquette"],[0,"\r\n    De"]],"start1":81,"start2":81,"length1":16,"length2":24}]],"length":295,"saved":false}
+{"ts":1357144157380,"patch":[[{"diffs":[[0,"imag"],[-1,"es in the content area and comments"],[0,"\r\n  "]],"start1":122,"start2":122,"length1":43,"length2":8}]],"length":260,"saved":false}
+{"ts":1357144162665,"patch":[[{"diffs":[[0,"on: "],[-1,"Kills imag"],[1,"Displays guidelines above comment area. Etiquette, eh wot?"],[0,"\r\n  "]],"start1":112,"start2":112,"length1":18,"length2":66}]],"length":308,"saved":false}
+{"ts":1357144306638,"patch":[[{"diffs":[[0,"se: "],[-1,"A \"Slug\" license name e.g. GPL2"],[1,"MIT"],[0,"\r\n*/"]],"start1":265,"start2":265,"length1":39,"length2":11}]],"length":280,"saved":false}
